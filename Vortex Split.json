@@ -1,0 +1,182 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Slash Replace",
+          "replace_ids": [
+            13455968853
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/vortex%20split%20slash.mp3"
+        },
+        {
+          "name": "Slash 2 Replace",
+          "replace_ids": [
+            13455968789
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/vortex%20split%20slash2.mp3"
+        },
+        {
+          "name": "Heavy Attack Replace",
+          "replace_ids": [
+            13160400909
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/vortex%20split%20stab2.mp3"
+        },
+        {
+          "name": "Equip Replace (Affects Spear)",
+          "replace_ids": [
+            13160326139
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 112097244349559
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            12613363718
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20equip.rbxm"
+        },
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            12613190591
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20idle.rbxm"
+        },
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            12886796453
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20sprint.rbxm"
+        },
+        {
+          "name": "Jab Replace",
+          "replace_ids": [
+            12613354440
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20jab.rbxm"
+        },
+        {
+          "name": "Slash 2 Replace",
+          "replace_ids": [
+            12613350645
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20slash2.rbxm"
+        },
+        {
+          "name": "Slash Replace",
+          "replace_ids": [
+            12613340305
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20slash.rbxm"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Blade Replace",
+          "replace_ids": [
+            12482022363
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20black.obj"
+        },
+        {
+          "name": "Handle Replace",
+          "replace_ids": [
+            12482022430
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/raw/refs/heads/main/void%20knife%20white.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            12482022259
+          ],
+          "mode": "id",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Wrap (over Money)",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Wrap Replace",
+          "replace_ids": [
+            120516745997404
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Quasar-Point/blob/main/Void%20Texture.png?raw=true"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13197583583
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/blob/main/vortex%20knife%20thumbnail%202.png?raw=true"
+        },
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17160800983
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Vortex-Split/blob/main/vortex%20knife%20thumbnail.png?raw=true"
+        }
+      ]
+    }
+  ]
+}
